@@ -1,0 +1,17 @@
+@import "@/styles/variables";
+@import '@/styles/mixins';
+
+.logo {
+  width: fit-content;
+  text-align: center;
+
+  @include flex(center, center);
+
+  @include respondMax("tablet") {
+    max-width: 30%;
+  }
+
+  @include respondMax("mobile") {
+    max-width: 40%;
+  }
+}
