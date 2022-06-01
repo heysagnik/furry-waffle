@@ -25,7 +25,7 @@ const Logo: React.FC<LogoProps> = ({
         width={width && width}
         height={width && height}
         layout={!width ? "fill" : "intrinsic"}
-        alt="jobbox logo"
+        alt="IntraZeal logo"
       />
     </div>
   );
