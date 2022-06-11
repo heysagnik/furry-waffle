@@ -5,8 +5,9 @@ const shared = {
   logo: "https://res.cloudinary.com/virtuonic/image/upload/v1654069926/intrazeal/Logo_s6ul2p.svg",
   logoBlue: "https://res.cloudinary.com/virtuonic/image/upload/v1654069926/intrazeal/Logo_s6ul2p.svg",
   socials: {
-    tw: "https://img.icons8.com/ios-glyphs/30/undefined/twitter--v1.png",
-    ln: "https://img.icons8.com/ios-glyphs/30/undefined/linkedin.png"
+    tw: "https://img.icons8.com/fluency/48/undefined/twitter.png",
+    ln: "https://img.icons8.com/fluency/48/undefined/linkedin.png"
+    di: "https://img.icons8.com/fluency/48/undefined/discord-logo.png"
   }
 };
 

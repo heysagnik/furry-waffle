@@ -109,12 +109,12 @@ const Front = ({ children, page }: Props) => {
               Copyright &copy; 2022 Intrazeal Limited. All rights reserved.
             </p>
             <div className={styles.footer_socials}>
-              <Link href="/">
+              <Link href="https://www.linkedin.com/company/intrazeal/">
                 <a className={styles.footer_social}>
                   <img src={socials.ln} width="20" height="20" alt="linkedin" />
                 </a>
               </Link>
-              <Link href="/">
+              <Link href="https://twitter.com/IntraZeal?t=vMFZ4KWlsglhu6tg0hgReQ&s=09">
                 <a className={styles.footer_social}>
                   <img src={socials.tw} width="20" height="20" alt="twitter" />
                 </a>
