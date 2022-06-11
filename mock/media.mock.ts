@@ -6,7 +6,7 @@ const shared = {
   logoBlue: "https://res.cloudinary.com/virtuonic/image/upload/v1654069926/intrazeal/Logo_s6ul2p.svg",
   socials: {
     tw: "https://img.icons8.com/fluency/48/undefined/twitter.png",
-    ln: "https://img.icons8.com/fluency/48/undefined/linkedin.png"
+    ln: "https://img.icons8.com/fluency/48/undefined/linkedin.png",
     di: "https://img.icons8.com/fluency/48/undefined/discord-logo.png"
   }
 };
